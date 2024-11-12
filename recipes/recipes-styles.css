@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+  background-color: #edeec8;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 10px;
+}
+
+.title {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.list {
+  margin: 0 20px;
+}
+
+.list>li {
+  padding: 5px 0;
+}
